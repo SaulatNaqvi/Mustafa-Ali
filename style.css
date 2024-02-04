@@ -1,0 +1,45 @@
+body
+{
+  background-color: rgb(43, 43, 43);
+  color: white;
+}
+
+
+
+.d-flex
+{
+  justify-content: space-between;
+}
+.nav-link
+{
+    font-size: 120%;
+}
+
+.a1
+{
+  justify-self:center;
+  font-size: 250%;
+}
+
+.btn
+
+{
+  
+    border-radius: 20px 20px 20px 20px;
+  
+}
+.c1
+{
+    font-size: 250%;
+    align-items: center;
+}
+
+.card-body
+{
+    float:both;
+}
+
+.iframe
+{
+    align-self: center;
+}
